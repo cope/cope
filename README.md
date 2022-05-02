@@ -6,6 +6,6 @@
 - 📫 How to reach me: [home](http://stojadinovic.net/)
 - ⚡ Fun fact: Facts are not fun, duh! 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cope&langs_count=8)](https://github.com/cope/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cope&langs_count=8)](https://github.com/cope)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cope&repo=github-readme-stats)](https://github.com/cope/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cope)](https://github.com/cope)
