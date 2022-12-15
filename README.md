@@ -12,3 +12,5 @@ Watch my first Owservable talk :blush:
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=cope&show_icons=true)](https://github.com/cope)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cope&langs_count=8)](https://github.com/cope)
+
+![CoPe QR](https://github.com/cope/cope/blob/main/github_cope_qr.jpg?raw=true)
