@@ -14,4 +14,4 @@ Watch my first Owservable talk :blush:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cope&langs_count=8)](https://github.com/cope)
 
-<img src="https://github.com/cope/cope/blob/main/github_cope_qr.jpg" width="200" height="200" />
+[<img src="https://github.com/cope/cope/blob/main/github_cope_qr.jpg" width="200" height="200" />](https://github.com/cope)
